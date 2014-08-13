@@ -1,0 +1,5 @@
+
+* homebrew-mutt
+
+This tap will allow the installation of mutt via homebrew on OSX.
+In addition to the stock mutt coming with homebrew this tap supports the xlabel patch plus GNU regular expression support.
